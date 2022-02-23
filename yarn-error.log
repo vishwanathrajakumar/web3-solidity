@@ -1,0 +1,33 @@
+Arguments: 
+  /Users/vishwanathrajakumar/.nvm/versions/node/v10.24.1/bin/node /usr/local/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js add -D hardhat
+
+PATH: 
+  /Users/vishwanathrajakumar/.nvm/versions/node/v10.24.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  10.24.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND artifactory.oci.oraclecorp.com artifactory.oci.oraclecorp.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  {
+    "name": "web3-solidity",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Vishwanath Rajakumar <vishwanath.rajakumar@oracle.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
